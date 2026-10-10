@@ -1,0 +1,773 @@
+ZipCode,Region,Country,WarehouseID
+,Southeast Asia,Indonesia,WH-101
+,South Asia,India,WH-102
+,Oceania,Australia,WH-103
+,Eastern Asia,China,WH-104
+,Eastern Asia,Japón,WH-105
+,Eastern Asia,Corea del Sur,WH-106
+,Southeast Asia,Singapur,WH-107
+,West Asia,Turquía,WH-108
+,Eastern Asia,Mongolia,WH-109
+99301.0,West of USA ,Estados Unidos,WH-110
+90049.0,West of USA ,Estados Unidos,WH-111
+94110.0,West of USA ,Estados Unidos,WH-112
+66212.0,US Center ,Estados Unidos,WH-113
+,West Africa,Nigeria,WH-114
+,Central Africa,República Democrática del Congo,WH-115
+,West Africa,Senegal,WH-116
+,North Africa,Marruecos,WH-117
+,Western Europe,Alemania,WH-118
+,Western Europe,Francia,WH-119
+,Western Europe,Países Bajos,WH-120
+,Northern Europe,Reino Unido,WH-121
+,Central America,Guatemala,WH-122
+,Central America,El Salvador,WH-123
+,Central America,Panamá,WH-124
+,Caribbean,República Dominicana,WH-125
+,South America,Venezuela,WH-126
+,South America,Colombia,WH-127
+,Central America,Honduras,WH-128
+,South America,Brasil,WH-129
+,Central America,México,WH-130
+,South America,Uruguay,WH-131
+,South America,Argentina,WH-132
+,Caribbean,Cuba,WH-133
+,South America,Perú,WH-134
+,Central America,Nicaragua,WH-135
+,South America,Ecuador,WH-136
+,Central Africa,Angola,WH-137
+,North Africa,Sudán,WH-138
+,East Africa,Somalia,WH-139
+,West Africa,Costa de Marfil,WH-140
+,North Africa,Egipto,WH-141
+,Southern Europe,Italia,WH-142
+,Southern Europe,España,WH-143
+,Northern Europe,Suecia,WH-144
+,Western Europe,Austria,WH-145
+77041.0,US Center ,Estados Unidos,WH-146
+85234.0,West of USA ,Estados Unidos,WH-147
+95123.0,West of USA ,Estados Unidos,WH-148
+93727.0,West of USA ,Estados Unidos,WH-149
+85345.0,West of USA ,Estados Unidos,WH-150
+45231.0,East of USA,Estados Unidos,WH-151
+47201.0,US Center ,Estados Unidos,WH-152
+,Canada,Canada,WH-153
+19134.0,East of USA,Estados Unidos,WH-154
+60016.0,US Center ,Estados Unidos,WH-155
+60126.0,US Center ,Estados Unidos,WH-156
+,East Africa,Madagascar,WH-157
+,North Africa,Argelia,WH-158
+,West Africa,Liberia,WH-159
+,East Africa,Zambia,WH-160
+,West Africa,Níger,WH-161
+,Southern Africa,SudAfrica,WH-162
+,East Africa,Mozambique,WH-163
+,East Africa,Tanzania,WH-164
+,East Africa,Ruanda,WH-165
+,West Asia,Israel,WH-166
+,Oceania,Nueva Zelanda,WH-167
+,South Asia,Bangladés,WH-168
+,Southeast Asia,Tailandia,WH-169
+,West Asia,Irak,WH-170
+,West Asia,Arabia Saudí,WH-171
+,Southeast Asia,Filipinas,WH-172
+,Central Asia,Kazajistán,WH-173
+,South Asia,Irán,WH-174
+,Southeast Asia,Myanmar (Birmania),WH-175
+,Central Asia,Uzbekistán,WH-176
+,West Africa,Benín,WH-177
+,Central Africa,Camerún,WH-178
+,East Africa,Kenia,WH-179
+,West Africa,Togo,WH-180
+,Eastern Europe,Ucrania,WH-181
+,Eastern Europe,Polonia,WH-182
+,Southern Europe,Portugal,WH-183
+,Eastern Europe,Rumania,WH-184
+,Caribbean,Trinidad y Tobago,WH-185
+,South Asia,Afganistán,WH-186
+,South Asia,Pakistán,WH-187
+,Southeast Asia,Vietnam,WH-188
+,Southeast Asia,Malasia,WH-189
+98103.0,West of USA ,Estados Unidos,WH-190
+94601.0,West of USA ,Estados Unidos,WH-191
+10009.0,East of USA,Estados Unidos,WH-192
+28110.0,South of  USA ,Estados Unidos,WH-193
+80219.0,West of USA ,Estados Unidos,WH-194
+90008.0,West of USA ,Estados Unidos,WH-195
+77095.0,US Center ,Estados Unidos,WH-196
+32216.0,South of  USA ,Estados Unidos,WH-197
+,Northern Europe,Finlandia,WH-198
+,Eastern Europe,Rusia,WH-199
+,Northern Europe,Irlanda,WH-200
+,Northern Europe,Noruega,WH-201
+,Eastern Europe,Eslovaquia,WH-202
+,Western Europe,Bélgica,WH-203
+,South America,Bolivia,WH-204
+,South America,Chile,WH-205
+,Caribbean,Jamaica,WH-206
+,West Asia,Yemen,WH-207
+,West Africa,Ghana,WH-208
+,West Africa,Guinea,WH-209
+,East Africa,Etiopía,WH-210
+,Eastern Europe,Bulgaria,WH-211
+,Central Asia,Kirguistán,WH-212
+,West Asia,Georgia,WH-213
+,South Asia,Nepal,WH-214
+,West Asia,Emiratos Árabes Unidos,WH-215
+,Southeast Asia,Camboya,WH-216
+77036.0,US Center ,Estados Unidos,WH-217
+74133.0,US Center ,Estados Unidos,WH-218
+94109.0,West of USA ,Estados Unidos,WH-219
+92553.0,West of USA ,Estados Unidos,WH-220
+,East Africa,Uganda,WH-221
+,Southern Africa,Lesoto,WH-222
+,Northern Europe,Lituania,WH-223
+,Western Europe,Suiza,WH-224
+,Eastern Europe,Hungría,WH-225
+,Northern Europe,Dinamarca,WH-226
+,Caribbean,Haití,WH-227
+,Eastern Europe,Bielorrusia,WH-228
+,Southern Europe,Croacia,WH-229
+,Southeast Asia,Laos,WH-230
+,West Asia,Baréin,WH-231
+20735.0,East of USA,Estados Unidos,WH-232
+60543.0,US Center ,Estados Unidos,WH-233
+60174.0,US Center ,Estados Unidos,WH-234
+31907.0,South of  USA ,Estados Unidos,WH-235
+62521.0,US Center ,Estados Unidos,WH-236
+92627.0,West of USA ,Estados Unidos,WH-237
+28806.0,South of  USA ,Estados Unidos,WH-238
+35630.0,South of  USA ,Estados Unidos,WH-239
+1852.0,East of USA,Estados Unidos,WH-240
+10024.0,East of USA,Estados Unidos,WH-241
+44312.0,East of USA,Estados Unidos,WH-242
+22153.0,South of  USA ,Estados Unidos,WH-243
+89015.0,West of USA ,Estados Unidos,WH-244
+90045.0,West of USA ,Estados Unidos,WH-245
+10011.0,East of USA,Estados Unidos,WH-246
+49505.0,US Center ,Estados Unidos,WH-247
+78664.0,US Center ,Estados Unidos,WH-248
+76017.0,US Center ,Estados Unidos,WH-249
+92105.0,West of USA ,Estados Unidos,WH-250
+85705.0,West of USA ,Estados Unidos,WH-251
+90032.0,West of USA ,Estados Unidos,WH-252
+48227.0,US Center ,Estados Unidos,WH-253
+55407.0,US Center ,Estados Unidos,WH-254
+28205.0,South of  USA ,Estados Unidos,WH-255
+23602.0,South of  USA ,Estados Unidos,WH-256
+94122.0,West of USA ,Estados Unidos,WH-257
+11572.0,East of USA,Estados Unidos,WH-258
+78207.0,US Center ,Estados Unidos,WH-259
+68104.0,US Center ,Estados Unidos,WH-260
+21215.0,East of USA,Estados Unidos,WH-261
+75081.0,US Center ,Estados Unidos,WH-262
+10035.0,East of USA,Estados Unidos,WH-263
+98115.0,West of USA ,Estados Unidos,WH-264
+49201.0,US Center ,Estados Unidos,WH-265
+43229.0,East of USA,Estados Unidos,WH-266
+60653.0,US Center ,Estados Unidos,WH-267
+6708.0,East of USA,Estados Unidos,WH-268
+98105.0,West of USA ,Estados Unidos,WH-269
+19143.0,East of USA,Estados Unidos,WH-270
+42420.0,South of  USA ,Estados Unidos,WH-271
+80134.0,West of USA ,Estados Unidos,WH-272
+94533.0,West of USA ,Estados Unidos,WH-273
+92037.0,West of USA ,Estados Unidos,WH-274
+90036.0,West of USA ,Estados Unidos,WH-275
+,Southern Europe,Macedonia,WH-276
+,Eastern Europe,República Checa,WH-277
+,South Asia,Sri Lanka,WH-278
+22304.0,South of  USA ,Estados Unidos,WH-279
+35810.0,South of  USA ,Estados Unidos,WH-280
+19711.0,East of USA,Estados Unidos,WH-281
+38109.0,South of  USA ,Estados Unidos,WH-282
+72701.0,South of  USA ,Estados Unidos,WH-283
+23223.0,South of  USA ,Estados Unidos,WH-284
+40475.0,South of  USA ,Estados Unidos,WH-285
+65807.0,US Center ,Estados Unidos,WH-286
+33801.0,South of  USA ,Estados Unidos,WH-287
+13021.0,East of USA,Estados Unidos,WH-288
+45503.0,East of USA,Estados Unidos,WH-289
+78577.0,US Center ,Estados Unidos,WH-290
+11550.0,East of USA,Estados Unidos,WH-291
+40214.0,South of  USA ,Estados Unidos,WH-292
+67212.0,US Center ,Estados Unidos,WH-293
+76106.0,US Center ,Estados Unidos,WH-294
+21044.0,East of USA,Estados Unidos,WH-295
+30318.0,South of  USA ,Estados Unidos,WH-296
+79762.0,US Center ,Estados Unidos,WH-297
+60610.0,US Center ,Estados Unidos,WH-298
+75217.0,US Center ,Estados Unidos,WH-299
+90004.0,West of USA ,Estados Unidos,WH-300
+89115.0,West of USA ,Estados Unidos,WH-301
+95037.0,West of USA ,Estados Unidos,WH-302
+97206.0,West of USA ,Estados Unidos,WH-303
+14215.0,East of USA,Estados Unidos,WH-304
+79109.0,US Center ,Estados Unidos,WH-305
+33614.0,South of  USA ,Estados Unidos,WH-306
+75034.0,US Center ,Estados Unidos,WH-307
+28540.0,South of  USA ,Estados Unidos,WH-308
+32303.0,South of  USA ,Estados Unidos,WH-309
+4240.0,East of USA,Estados Unidos,WH-310
+34952.0,South of  USA ,Estados Unidos,WH-311
+63116.0,US Center ,Estados Unidos,WH-312
+77070.0,US Center ,Estados Unidos,WH-313
+1841.0,East of USA,Estados Unidos,WH-314
+97756.0,West of USA ,Estados Unidos,WH-315
+19140.0,East of USA,Estados Unidos,WH-316
+28314.0,South of  USA ,Estados Unidos,WH-317
+13440.0,East of USA,Estados Unidos,WH-318
+,East Africa,Zimbabue,WH-319
+,East Africa,Eritrea,WH-320
+,West Africa,Burkina Faso,WH-321
+,Central America,Costa Rica,WH-322
+60623.0,US Center ,Estados Unidos,WH-323
+95823.0,West of USA ,Estados Unidos,WH-324
+37042.0,South of  USA ,Estados Unidos,WH-325
+46060.0,US Center ,Estados Unidos,WH-326
+8701.0,East of USA,Estados Unidos,WH-327
+26003.0,East of USA,Estados Unidos,WH-328
+19120.0,East of USA,Estados Unidos,WH-329
+19013.0,East of USA,Estados Unidos,WH-330
+99207.0,West of USA ,Estados Unidos,WH-331
+2138.0,East of USA,Estados Unidos,WH-332
+72209.0,South of  USA ,Estados Unidos,WH-333
+39212.0,South of  USA ,Estados Unidos,WH-334
+44256.0,East of USA,Estados Unidos,WH-335
+19805.0,East of USA,Estados Unidos,WH-336
+74012.0,US Center ,Estados Unidos,WH-337
+23320.0,South of  USA ,Estados Unidos,WH-338
+80112.0,West of USA ,Estados Unidos,WH-339
+85023.0,West of USA ,Estados Unidos,WH-340
+38671.0,South of  USA ,Estados Unidos,WH-341
+92374.0,West of USA ,Estados Unidos,WH-342
+62301.0,US Center ,Estados Unidos,WH-343
+55106.0,US Center ,Estados Unidos,WH-344
+22801.0,South of  USA ,Estados Unidos,WH-345
+47150.0,US Center ,Estados Unidos,WH-346
+,North Africa,Libia,WH-347
+,Caribbean,Barbados,WH-348
+,Central Asia,Tayikistán,WH-349
+,West Asia,Siria,WH-350
+,Caribbean,Guadalupe,WH-351
+,Oceania,Papúa Nueva Guinea,WH-352
+37167.0,South of  USA ,Estados Unidos,WH-353
+28403.0,South of  USA ,Estados Unidos,WH-354
+29203.0,South of  USA ,Estados Unidos,WH-355
+37064.0,South of  USA ,Estados Unidos,WH-356
+27604.0,South of  USA ,Estados Unidos,WH-357
+,West Asia,Azerbaiyán,WH-358
+,Central Asia,Turkmenistán,WH-359
+80013.0,West of USA ,Estados Unidos,WH-360
+24153.0,South of  USA ,Estados Unidos,WH-361
+,South America,Paraguay,WH-362
+,West Asia,Jordania,WH-363
+,Eastern Asia,Hong Kong,WH-364
+43055.0,East of USA,Estados Unidos,WH-365
+54880.0,US Center ,Estados Unidos,WH-366
+85281.0,West of USA ,Estados Unidos,WH-367
+92024.0,West of USA ,Estados Unidos,WH-368
+87105.0,West of USA ,Estados Unidos,WH-369
+27893.0,South of  USA ,Estados Unidos,WH-370
+75150.0,US Center ,Estados Unidos,WH-371
+95695.0,West of USA ,Estados Unidos,WH-372
+33311.0,South of  USA ,Estados Unidos,WH-373
+77506.0,US Center ,Estados Unidos,WH-374
+44240.0,East of USA,Estados Unidos,WH-375
+4401.0,East of USA,Estados Unidos,WH-376
+77340.0,US Center ,Estados Unidos,WH-377
+7960.0,East of USA,Estados Unidos,WH-378
+35601.0,South of  USA ,Estados Unidos,WH-379
+33023.0,South of  USA ,Estados Unidos,WH-380
+22204.0,South of  USA ,Estados Unidos,WH-381
+37211.0,South of  USA ,Estados Unidos,WH-382
+92704.0,West of USA ,Estados Unidos,WH-383
+30062.0,South of  USA ,Estados Unidos,WH-384
+33178.0,South of  USA ,Estados Unidos,WH-385
+91104.0,West of USA ,Estados Unidos,WH-386
+60302.0,US Center ,Estados Unidos,WH-387
+54401.0,US Center ,Estados Unidos,WH-388
+68025.0,US Center ,Estados Unidos,WH-389
+33180.0,South of  USA ,Estados Unidos,WH-390
+53209.0,US Center ,Estados Unidos,WH-391
+60505.0,US Center ,Estados Unidos,WH-392
+55044.0,US Center ,Estados Unidos,WH-393
+27707.0,South of  USA ,Estados Unidos,WH-394
+,Caribbean,Martinica,WH-395
+75701.0,US Center ,Estados Unidos,WH-396
+72401.0,South of  USA ,Estados Unidos,WH-397
+98661.0,West of USA ,Estados Unidos,WH-398
+48234.0,US Center ,Estados Unidos,WH-399
+95051.0,West of USA ,Estados Unidos,WH-400
+41042.0,South of  USA ,Estados Unidos,WH-401
+46368.0,US Center ,Estados Unidos,WH-402
+,Eastern Europe,Moldavia,WH-403
+91941.0,West of USA ,Estados Unidos,WH-404
+74403.0,US Center ,Estados Unidos,WH-405
+37130.0,South of  USA ,Estados Unidos,WH-406
+36608.0,South of  USA ,Estados Unidos,WH-407
+7090.0,East of USA,Estados Unidos,WH-408
+66062.0,US Center ,Estados Unidos,WH-409
+70506.0,South of  USA ,Estados Unidos,WH-410
+7501.0,East of USA,Estados Unidos,WH-411
+47905.0,US Center ,Estados Unidos,WH-412
+11561.0,East of USA,Estados Unidos,WH-413
+33021.0,South of  USA ,Estados Unidos,WH-414
+33142.0,South of  USA ,Estados Unidos,WH-415
+80004.0,West of USA ,Estados Unidos,WH-416
+30344.0,South of  USA ,Estados Unidos,WH-417
+90301.0,West of USA ,Estados Unidos,WH-418
+43130.0,East of USA,Estados Unidos,WH-419
+76117.0,US Center ,Estados Unidos,WH-420
+98042.0,West of USA ,Estados Unidos,WH-421
+98632.0,West of USA ,Estados Unidos,WH-422
+48146.0,US Center ,Estados Unidos,WH-423
+73120.0,US Center ,Estados Unidos,WH-424
+32839.0,South of  USA ,Estados Unidos,WH-425
+45373.0,East of USA,Estados Unidos,WH-426
+,West Asia,Qatar,WH-427
+92804.0,West of USA ,Estados Unidos,WH-428
+80027.0,West of USA ,Estados Unidos,WH-429
+72032.0,South of  USA ,Estados Unidos,WH-430
+79907.0,US Center ,Estados Unidos,WH-431
+90805.0,West of USA ,Estados Unidos,WH-432
+2908.0,East of USA,Estados Unidos,WH-433
+55901.0,US Center ,Estados Unidos,WH-434
+92503.0,West of USA ,Estados Unidos,WH-435
+1453.0,East of USA,Estados Unidos,WH-436
+78745.0,US Center ,Estados Unidos,WH-437
+98052.0,West of USA ,Estados Unidos,WH-438
+84106.0,West of USA ,Estados Unidos,WH-439
+6824.0,East of USA,Estados Unidos,WH-440
+76706.0,US Center ,Estados Unidos,WH-441
+60440.0,US Center ,Estados Unidos,WH-442
+92404.0,West of USA ,Estados Unidos,WH-443
+32712.0,South of  USA ,Estados Unidos,WH-444
+2169.0,East of USA,Estados Unidos,WH-445
+33024.0,South of  USA ,Estados Unidos,WH-446
+98208.0,West of USA ,Estados Unidos,WH-447
+98006.0,West of USA ,Estados Unidos,WH-448
+42104.0,South of  USA ,Estados Unidos,WH-449
+,West Africa,Mali,WH-450
+,Southern Europe,Albania,WH-451
+85301.0,West of USA ,Estados Unidos,WH-452
+30328.0,South of  USA ,Estados Unidos,WH-453
+71203.0,South of  USA ,Estados Unidos,WH-454
+32137.0,South of  USA ,Estados Unidos,WH-455
+22980.0,South of  USA ,Estados Unidos,WH-456
+61032.0,US Center ,Estados Unidos,WH-457
+92345.0,West of USA ,Estados Unidos,WH-458
+37620.0,South of  USA ,Estados Unidos,WH-459
+97301.0,West of USA ,Estados Unidos,WH-460
+78539.0,US Center ,Estados Unidos,WH-461
+97477.0,West of USA ,Estados Unidos,WH-462
+92530.0,West of USA ,Estados Unidos,WH-463
+46203.0,US Center ,Estados Unidos,WH-464
+18103.0,East of USA,Estados Unidos,WH-465
+75051.0,US Center ,Estados Unidos,WH-466
+2740.0,East of USA,Estados Unidos,WH-467
+12180.0,East of USA,Estados Unidos,WH-468
+67846.0,US Center ,Estados Unidos,WH-469
+54601.0,US Center ,Estados Unidos,WH-470
+43017.0,East of USA,Estados Unidos,WH-471
+94061.0,West of USA ,Estados Unidos,WH-472
+2149.0,East of USA,Estados Unidos,WH-473
+37421.0,South of  USA ,Estados Unidos,WH-474
+38301.0,South of  USA ,Estados Unidos,WH-475
+85204.0,West of USA ,Estados Unidos,WH-476
+3820.0,East of USA,Estados Unidos,WH-477
+10550.0,East of USA,Estados Unidos,WH-478
+89031.0,West of USA ,Estados Unidos,WH-479
+53142.0,US Center ,Estados Unidos,WH-480
+47374.0,US Center ,Estados Unidos,WH-481
+44105.0,East of USA,Estados Unidos,WH-482
+75220.0,US Center ,Estados Unidos,WH-483
+85323.0,West of USA ,Estados Unidos,WH-484
+54302.0,US Center ,Estados Unidos,WH-485
+60540.0,US Center ,Estados Unidos,WH-486
+60025.0,US Center ,Estados Unidos,WH-487
+13601.0,East of USA,Estados Unidos,WH-488
+48183.0,US Center ,Estados Unidos,WH-489
+44107.0,East of USA,Estados Unidos,WH-490
+93309.0,West of USA ,Estados Unidos,WH-491
+75023.0,US Center ,Estados Unidos,WH-492
+87124.0,West of USA ,Estados Unidos,WH-493
+94591.0,West of USA ,Estados Unidos,WH-494
+71111.0,South of  USA ,Estados Unidos,WH-495
+30080.0,South of  USA ,Estados Unidos,WH-496
+61701.0,US Center ,Estados Unidos,WH-497
+7601.0,East of USA,Estados Unidos,WH-498
+27217.0,South of  USA ,Estados Unidos,WH-499
+43615.0,East of USA,Estados Unidos,WH-500
+93101.0,West of USA ,Estados Unidos,WH-501
+77590.0,US Center ,Estados Unidos,WH-502
+6457.0,East of USA,Estados Unidos,WH-503
+60201.0,US Center ,Estados Unidos,WH-504
+97405.0,West of USA ,Estados Unidos,WH-505
+32503.0,South of  USA ,Estados Unidos,WH-506
+98026.0,West of USA ,Estados Unidos,WH-507
+7060.0,East of USA,Estados Unidos,WH-508
+33437.0,South of  USA ,Estados Unidos,WH-509
+46350.0,US Center ,Estados Unidos,WH-510
+75061.0,US Center ,Estados Unidos,WH-511
+30605.0,South of  USA ,Estados Unidos,WH-512
+48205.0,US Center ,Estados Unidos,WH-513
+,Central Africa,República del Congo,WH-514
+,Southern Europe,Bosnia y Herzegovina,WH-515
+,West Asia,Omán,WH-516
+48126.0,US Center ,Estados Unidos,WH-517
+17403.0,East of USA,Estados Unidos,WH-518
+91767.0,West of USA ,Estados Unidos,WH-519
+83605.0,West of USA ,Estados Unidos,WH-520
+28052.0,South of  USA ,Estados Unidos,WH-521
+48601.0,US Center ,Estados Unidos,WH-522
+19901.0,East of USA,Estados Unidos,WH-523
+44052.0,East of USA,Estados Unidos,WH-524
+79424.0,US Center ,Estados Unidos,WH-525
+10701.0,East of USA,Estados Unidos,WH-526
+36116.0,South of  USA ,Estados Unidos,WH-527
+55113.0,US Center ,Estados Unidos,WH-528
+23434.0,South of  USA ,Estados Unidos,WH-529
+98198.0,West of USA ,Estados Unidos,WH-530
+13501.0,East of USA,Estados Unidos,WH-531
+92307.0,West of USA ,Estados Unidos,WH-532
+20016.0,East of USA,Estados Unidos,WH-533
+8302.0,East of USA,Estados Unidos,WH-534
+97224.0,West of USA ,Estados Unidos,WH-535
+2038.0,East of USA,Estados Unidos,WH-536
+61107.0,US Center ,Estados Unidos,WH-537
+2148.0,East of USA,Estados Unidos,WH-538
+45014.0,East of USA,Estados Unidos,WH-539
+,North Africa,Túnez,WH-540
+90712.0,West of USA ,Estados Unidos,WH-541
+94086.0,West of USA ,Estados Unidos,WH-542
+75007.0,US Center ,Estados Unidos,WH-543
+71603.0,South of  USA ,Estados Unidos,WH-544
+78041.0,US Center ,Estados Unidos,WH-545
+46544.0,US Center ,Estados Unidos,WH-546
+,West Africa,Sierra Leona,WH-547
+,East Africa,Yibuti,WH-548
+37075.0,South of  USA ,Estados Unidos,WH-549
+85254.0,West of USA ,Estados Unidos,WH-550
+28601.0,South of  USA ,Estados Unidos,WH-551
+83642.0,West of USA ,Estados Unidos,WH-552
+37918.0,South of  USA ,Estados Unidos,WH-553
+,East Africa,Burundi,WH-554
+,Southern Europe,Montenegro,WH-555
+48310.0,US Center ,Estados Unidos,WH-556
+33012.0,South of  USA ,Estados Unidos,WH-557
+85224.0,West of USA ,Estados Unidos,WH-558
+,Central Africa,Gabón,WH-559
+7050.0,East of USA,Estados Unidos,WH-560
+76021.0,US Center ,Estados Unidos,WH-561
+6010.0,East of USA,Estados Unidos,WH-562
+37604.0,South of  USA ,Estados Unidos,WH-563
+70601.0,South of  USA ,Estados Unidos,WH-564
+92691.0,West of USA ,Estados Unidos,WH-565
+,East Africa,Sudán del Sur,WH-566
+,Western Europe,Luxemburgo,WH-567
+20877.0,East of USA,Estados Unidos,WH-568
+88220.0,West of USA ,Estados Unidos,WH-569
+8360.0,East of USA,Estados Unidos,WH-570
+78501.0,US Center ,Estados Unidos,WH-571
+27405.0,South of  USA ,Estados Unidos,WH-572
+92054.0,West of USA ,Estados Unidos,WH-573
+,Southern Africa,Namibia,WH-574
+,West Africa,Mauritania,WH-575
+,Southern Europe,Grecia,WH-576
+29501.0,South of  USA ,Estados Unidos,WH-577
+92630.0,West of USA ,Estados Unidos,WH-578
+43302.0,East of USA,Estados Unidos,WH-579
+33458.0,South of  USA ,Estados Unidos,WH-580
+33065.0,South of  USA ,Estados Unidos,WH-581
+40324.0,South of  USA ,Estados Unidos,WH-582
+28027.0,South of  USA ,Estados Unidos,WH-583
+33317.0,South of  USA ,Estados Unidos,WH-584
+84107.0,West of USA ,Estados Unidos,WH-585
+39401.0,South of  USA ,Estados Unidos,WH-586
+6040.0,East of USA,Estados Unidos,WH-587
+14609.0,East of USA,Estados Unidos,WH-588
+98502.0,West of USA ,Estados Unidos,WH-589
+78415.0,US Center ,Estados Unidos,WH-590
+84041.0,West of USA ,Estados Unidos,WH-591
+61761.0,US Center ,Estados Unidos,WH-592
+84084.0,West of USA ,Estados Unidos,WH-593
+94509.0,West of USA ,Estados Unidos,WH-594
+95661.0,West of USA ,Estados Unidos,WH-595
+80020.0,West of USA ,Estados Unidos,WH-596
+84062.0,West of USA ,Estados Unidos,WH-597
+33063.0,South of  USA ,Estados Unidos,WH-598
+1915.0,East of USA,Estados Unidos,WH-599
+10801.0,East of USA,Estados Unidos,WH-600
+77642.0,US Center ,Estados Unidos,WH-601
+90503.0,West of USA ,Estados Unidos,WH-602
+84604.0,West of USA ,Estados Unidos,WH-603
+80906.0,West of USA ,Estados Unidos,WH-604
+32114.0,South of  USA ,Estados Unidos,WH-605
+91776.0,West of USA ,Estados Unidos,WH-606
+23464.0,South of  USA ,Estados Unidos,WH-607
+85635.0,West of USA ,Estados Unidos,WH-608
+48911.0,US Center ,Estados Unidos,WH-609
+27834.0,South of  USA ,Estados Unidos,WH-610
+,Southern Africa,Suazilandia,WH-611
+77705.0,US Center ,Estados Unidos,WH-612
+90278.0,West of USA ,Estados Unidos,WH-613
+38401.0,South of  USA ,Estados Unidos,WH-614
+22901.0,South of  USA ,Estados Unidos,WH-615
+50315.0,US Center ,Estados Unidos,WH-616
+98031.0,West of USA ,Estados Unidos,WH-617
+,South America,Guyana,WH-618
+7055.0,East of USA,Estados Unidos,WH-619
+84057.0,West of USA ,Estados Unidos,WH-620
+75002.0,US Center ,Estados Unidos,WH-621
+3301.0,East of USA,Estados Unidos,WH-622
+,South America,Guayana Francesa,WH-623
+36830.0,South of  USA ,Estados Unidos,WH-624
+44221.0,East of USA,Estados Unidos,WH-625
+30076.0,South of  USA ,Estados Unidos,WH-626
+60462.0,US Center ,Estados Unidos,WH-627
+78550.0,US Center ,Estados Unidos,WH-628
+94568.0,West of USA ,Estados Unidos,WH-629
+44134.0,East of USA,Estados Unidos,WH-630
+48127.0,US Center ,Estados Unidos,WH-631
+84043.0,West of USA ,Estados Unidos,WH-632
+61821.0,US Center ,Estados Unidos,WH-633
+,Central Africa,República Centroafricana,WH-634
+46226.0,US Center ,Estados Unidos,WH-635
+35244.0,South of  USA ,Estados Unidos,WH-636
+47401.0,US Center ,Estados Unidos,WH-637
+92025.0,West of USA ,Estados Unidos,WH-638
+33319.0,South of  USA ,Estados Unidos,WH-639
+75056.0,US Center ,Estados Unidos,WH-640
+53132.0,US Center ,Estados Unidos,WH-641
+60076.0,US Center ,Estados Unidos,WH-642
+65203.0,US Center ,Estados Unidos,WH-643
+92683.0,West of USA ,Estados Unidos,WH-644
+68701.0,US Center ,Estados Unidos,WH-645
+55124.0,US Center ,Estados Unidos,WH-646
+77573.0,US Center ,Estados Unidos,WH-647
+6450.0,East of USA,Estados Unidos,WH-648
+78666.0,US Center ,Estados Unidos,WH-649
+77840.0,US Center ,Estados Unidos,WH-650
+96003.0,West of USA ,Estados Unidos,WH-651
+90640.0,West of USA ,Estados Unidos,WH-652
+5408.0,East of USA,Estados Unidos,WH-653
+56301.0,US Center ,Estados Unidos,WH-654
+,Eastern Asia,Taiwán,WH-655
+63301.0,US Center ,Estados Unidos,WH-656
+55122.0,US Center ,Estados Unidos,WH-657
+,Northern Europe,Estonia,WH-658
+92677.0,West of USA ,Estados Unidos,WH-659
+43123.0,East of USA,Estados Unidos,WH-660
+20852.0,East of USA,Estados Unidos,WH-661
+59601.0,West of USA ,Estados Unidos,WH-662
+89431.0,West of USA ,Estados Unidos,WH-663
+23666.0,South of  USA ,Estados Unidos,WH-664
+59405.0,West of USA ,Estados Unidos,WH-665
+,West Asia,Líbano,WH-666
+78521.0,US Center ,Estados Unidos,WH-667
+6484.0,East of USA,Estados Unidos,WH-668
+18018.0,East of USA,Estados Unidos,WH-669
+11520.0,East of USA,Estados Unidos,WH-670
+76063.0,US Center ,Estados Unidos,WH-671
+48640.0,US Center ,Estados Unidos,WH-672
+92646.0,West of USA ,Estados Unidos,WH-673
+,Southern Europe,Chipre,WH-674
+94513.0,West of USA ,Estados Unidos,WH-675
+8401.0,East of USA,Estados Unidos,WH-676
+97504.0,West of USA ,Estados Unidos,WH-677
+2920.0,East of USA,Estados Unidos,WH-678
+52601.0,US Center ,Estados Unidos,WH-679
+14304.0,East of USA,Estados Unidos,WH-680
+6360.0,East of USA,Estados Unidos,WH-681
+57701.0,US Center ,Estados Unidos,WH-682
+8861.0,East of USA,Estados Unidos,WH-683
+27360.0,South of  USA ,Estados Unidos,WH-684
+83201.0,West of USA ,Estados Unidos,WH-685
+81001.0,West of USA ,Estados Unidos,WH-686
+55369.0,US Center ,Estados Unidos,WH-687
+84321.0,West of USA ,Estados Unidos,WH-688
+53711.0,US Center ,Estados Unidos,WH-689
+7011.0,East of USA,Estados Unidos,WH-690
+89502.0,West of USA ,Estados Unidos,WH-691
+7109.0,East of USA,Estados Unidos,WH-692
+7002.0,East of USA,Estados Unidos,WH-693
+91505.0,West of USA ,Estados Unidos,WH-694
+75080.0,US Center ,Estados Unidos,WH-695
+94526.0,West of USA ,Estados Unidos,WH-696
+31088.0,South of  USA ,Estados Unidos,WH-697
+72762.0,South of  USA ,Estados Unidos,WH-698
+32771.0,South of  USA ,Estados Unidos,WH-699
+97123.0,West of USA ,Estados Unidos,WH-700
+95336.0,West of USA ,Estados Unidos,WH-701
+93405.0,West of USA ,Estados Unidos,WH-702
+,West Africa,Guinea-Bissau,WH-703
+95240.0,West of USA ,Estados Unidos,WH-704
+80501.0,West of USA ,Estados Unidos,WH-705
+80229.0,West of USA ,Estados Unidos,WH-706
+93454.0,West of USA ,Estados Unidos,WH-707
+97030.0,West of USA ,Estados Unidos,WH-708
+33068.0,South of  USA ,Estados Unidos,WH-709
+42301.0,South of  USA ,Estados Unidos,WH-710
+50322.0,US Center ,Estados Unidos,WH-711
+16602.0,East of USA,Estados Unidos,WH-712
+60035.0,US Center ,Estados Unidos,WH-713
+76903.0,US Center ,Estados Unidos,WH-714
+70065.0,South of  USA ,Estados Unidos,WH-715
+44060.0,East of USA,Estados Unidos,WH-716
+53081.0,US Center ,Estados Unidos,WH-717
+29464.0,South of  USA ,Estados Unidos,WH-718
+85364.0,West of USA ,Estados Unidos,WH-719
+48185.0,US Center ,Estados Unidos,WH-720
+53214.0,US Center ,Estados Unidos,WH-721
+27511.0,South of  USA ,Estados Unidos,WH-722
+57103.0,US Center ,Estados Unidos,WH-723
+60090.0,US Center ,Estados Unidos,WH-724
+37087.0,South of  USA ,Estados Unidos,WH-725
+29483.0,South of  USA ,Estados Unidos,WH-726
+83704.0,West of USA ,Estados Unidos,WH-727
+93534.0,West of USA ,Estados Unidos,WH-728
+93905.0,West of USA ,Estados Unidos,WH-729
+2886.0,East of USA,Estados Unidos,WH-730
+79605.0,US Center ,Estados Unidos,WH-731
+43402.0,East of USA,Estados Unidos,WH-732
+52302.0,US Center ,Estados Unidos,WH-733
+17602.0,East of USA,Estados Unidos,WH-734
+8901.0,East of USA,Estados Unidos,WH-735
+55016.0,US Center ,Estados Unidos,WH-736
+64118.0,US Center ,Estados Unidos,WH-737
+54703.0,US Center ,Estados Unidos,WH-738
+95928.0,West of USA ,Estados Unidos,WH-739
+95351.0,West of USA ,Estados Unidos,WH-740
+94521.0,West of USA ,Estados Unidos,WH-741
+45011.0,East of USA,Estados Unidos,WH-742
+31204.0,South of  USA ,Estados Unidos,WH-743
+33407.0,South of  USA ,Estados Unidos,WH-744
+2151.0,East of USA,Estados Unidos,WH-745
+71901.0,South of  USA ,Estados Unidos,WH-746
+60098.0,US Center ,Estados Unidos,WH-747
+48307.0,US Center ,Estados Unidos,WH-748
+86442.0,West of USA ,Estados Unidos,WH-749
+6460.0,East of USA,Estados Unidos,WH-750
+98059.0,West of USA ,Estados Unidos,WH-751
+,South America,Surinam,WH-752
+35401.0,South of  USA ,Estados Unidos,WH-753
+92592.0,West of USA ,Estados Unidos,WH-754
+39503.0,South of  USA ,Estados Unidos,WH-755
+77571.0,US Center ,Estados Unidos,WH-756
+93030.0,West of USA ,Estados Unidos,WH-757
+95207.0,West of USA ,Estados Unidos,WH-758
+2895.0,East of USA,Estados Unidos,WH-759
+60089.0,US Center ,Estados Unidos,WH-760
+75043.0,US Center ,Estados Unidos,WH-761
+73034.0,US Center ,Estados Unidos,WH-762
+48180.0,US Center ,Estados Unidos,WH-763
+49423.0,US Center ,Estados Unidos,WH-764
+53186.0,US Center ,Estados Unidos,WH-765
+73505.0,US Center ,Estados Unidos,WH-766
+,Central America,Belice,WH-767
+33433.0,South of  USA ,Estados Unidos,WH-768
+1810.0,East of USA,Estados Unidos,WH-769
+,Southern Europe,Eslovenia,WH-770
+95610.0,West of USA ,Estados Unidos,WH-771
+80538.0,West of USA ,Estados Unidos,WH-772
+55125.0,US Center ,Estados Unidos,WH-773
+88101.0,West of USA ,Estados Unidos,WH-774
+33445.0,South of  USA ,Estados Unidos,WH-775
+92563.0,West of USA ,Estados Unidos,WH-776
+61604.0,US Center ,Estados Unidos,WH-777
+93010.0,West of USA ,Estados Unidos,WH-778
+58103.0,US Center ,Estados Unidos,WH-779
+,West Africa,República de Gambia,WH-780
+52001.0,US Center ,Estados Unidos,WH-781
+90604.0,West of USA ,Estados Unidos,WH-782
+91761.0,West of USA ,Estados Unidos,WH-783
+77803.0,US Center ,Estados Unidos,WH-784
+52402.0,US Center ,Estados Unidos,WH-785
+44035.0,East of USA,Estados Unidos,WH-786
+33710.0,South of  USA ,Estados Unidos,WH-787
+33030.0,South of  USA ,Estados Unidos,WH-788
+98270.0,West of USA ,Estados Unidos,WH-789
+48073.0,US Center ,Estados Unidos,WH-790
+73071.0,US Center ,Estados Unidos,WH-791
+75019.0,US Center ,Estados Unidos,WH-792
+29730.0,South of  USA ,Estados Unidos,WH-793
+,Southern Africa,Botsuana,WH-794
+1752.0,East of USA,Estados Unidos,WH-795
+,West Asia,Armenia,WH-796
+46142.0,US Center ,Estados Unidos,WH-797
+68801.0,US Center ,Estados Unidos,WH-798
+48104.0,US Center ,Estados Unidos,WH-799
+59715.0,West of USA ,Estados Unidos,WH-800
+87505.0,West of USA ,Estados Unidos,WH-801
+19601.0,East of USA,Estados Unidos,WH-802
+,Central Africa,Guinea Ecuatorial,WH-803
+,West Asia,Kuwait,WH-804
+45040.0,East of USA,Estados Unidos,WH-805
+92672.0,West of USA ,Estados Unidos,WH-806
+60004.0,US Center ,Estados Unidos,WH-807
+80525.0,West of USA ,Estados Unidos,WH-808
+33161.0,South of  USA ,Estados Unidos,WH-809
+83301.0,West of USA ,Estados Unidos,WH-810
+91730.0,West of USA ,Estados Unidos,WH-811
+93277.0,West of USA ,Estados Unidos,WH-812
+29406.0,South of  USA ,Estados Unidos,WH-813
+91360.0,West of USA ,Estados Unidos,WH-814
+84020.0,West of USA ,Estados Unidos,WH-815
+48237.0,US Center ,Estados Unidos,WH-816
+63122.0,US Center ,Estados Unidos,WH-817
+32725.0,South of  USA ,Estados Unidos,WH-818
+61832.0,US Center ,Estados Unidos,WH-819
+60188.0,US Center ,Estados Unidos,WH-820
+60477.0,US Center ,Estados Unidos,WH-821
+77301.0,US Center ,Estados Unidos,WH-822
+94403.0,West of USA ,Estados Unidos,WH-823
+77489.0,US Center ,Estados Unidos,WH-824
+59102.0,West of USA ,Estados Unidos,WH-825
+42071.0,South of  USA ,Estados Unidos,WH-826
+14701.0,East of USA,Estados Unidos,WH-827
+92236.0,West of USA ,Estados Unidos,WH-828
+46614.0,US Center ,Estados Unidos,WH-829
+98002.0,West of USA ,Estados Unidos,WH-830
+54915.0,US Center ,Estados Unidos,WH-831
+,South Asia,Bután,WH-832
+60068.0,US Center ,Estados Unidos,WH-833
+48187.0,US Center ,Estados Unidos,WH-834
+1040.0,East of USA,Estados Unidos,WH-835
+60441.0,US Center ,Estados Unidos,WH-836
+64055.0,US Center ,Estados Unidos,WH-837
+32174.0,South of  USA ,Estados Unidos,WH-838
+20707.0,East of USA,Estados Unidos,WH-839
+98226.0,West of USA ,Estados Unidos,WH-840
+,Central Africa,Chad,WH-841
+48066.0,US Center ,Estados Unidos,WH-842
+7017.0,East of USA,Estados Unidos,WH-843
+92020.0,West of USA ,Estados Unidos,WH-844
+91911.0,West of USA ,Estados Unidos,WH-845
+75104.0,US Center ,Estados Unidos,WH-846
+56560.0,US Center ,Estados Unidos,WH-847
+88001.0,West of USA ,Estados Unidos,WH-848
+47362.0,US Center ,Estados Unidos,WH-849
+76051.0,US Center ,Estados Unidos,WH-850
+,Eastern Europe,Serbia,WH-851
+50701.0,US Center ,Estados Unidos,WH-852
+57401.0,US Center ,Estados Unidos,WH-853
+80022.0,West of USA ,Estados Unidos,WH-854
+77536.0,US Center ,Estados Unidos,WH-855
+,West Africa,Sáhara Occidental,WH-856
+71854.0,South of  USA ,Estados Unidos,WH-857
+55433.0,US Center ,Estados Unidos,WH-858
+77581.0,US Center ,Estados Unidos,WH-859
+63376.0,US Center ,Estados Unidos,WH-860
+48858.0,US Center ,Estados Unidos,WH-861
+34741.0,South of  USA ,Estados Unidos,WH-862
+95616.0,West of USA ,Estados Unidos,WH-863
+46514.0,US Center ,Estados Unidos,WH-864
+87401.0,West of USA ,Estados Unidos,WH-865
+7036.0,East of USA,Estados Unidos,WH-866
+30188.0,South of  USA ,Estados Unidos,WH-867
+59801.0,West of USA ,Estados Unidos,WH-868
+11757.0,East of USA,Estados Unidos,WH-869
+92399.0,West of USA ,Estados Unidos,WH-870
+90660.0,West of USA ,Estados Unidos,WH-871
+3060.0,East of USA,Estados Unidos,WH-872
