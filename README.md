@@ -2,7 +2,7 @@
 
 An operational reporting platform built in Power BI to monitor logistics performance, regional fulfillment rates, inventory distribution, and shipping lead times using a Star Schema data model.
 
-![Dashboard Preview]((https://github.com/DineshShanmugavel/Executive-Supply-Chain-Inventory-Intelligence-Dashboard/blob/fa74b03addcc8c4436d32894ecb626fb9b2d1c69/Dashboard%20view.jpeg))
+![Dashboard Preview](Dashboard%20view.jpeg)
 
 ---
 
